@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 1.1,
+    "ConfigVersion": 1.2,
     "ConfigUpdateMsg": "Welcome to UltimateVPN GTMv1",
     "SshPort": "442",
     "SshStunnelPort": "443",
@@ -101,31 +101,31 @@
 	{
 			"SubInfo": "India GTM Browsing 1",
 			"Server": "nl-ins1.ultimate-vpn-gtm.cf",
-			"Location": "in"
+			"Location": "IN"
 			},
 			
       {
 			"SubInfo": "India GTM Browsing 2",
 			"Server": "nl-ins2.ultimate-vpn-gtm.cf",
-			"Location": "in"
+			"Location": "IN"
 			},
 			
       {
 			"SubInfo": "India GTM Browsing 3",
 			"Server": "nl-ins3.ultimate-vpn-gtm.cf",
-			"Location": "in"
+			"Location": "IN"
 			},
 			
       {
 			"SubInfo": "India GTM Browsing 4",
 			"Server": "nl-ins4.ultimate-vpn-gtm.cf",
-			"Location": "in"
+			"Location": "IN"
 			},
 			
       {
 			"SubInfo": "India GTM Browsing 5",
 			"Server": "nl-ins5.ultimate-vpn-gtm.cf",
-			"Location": "in"
+			"Location": "IN"
 			},
 			
       {
