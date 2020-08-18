@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 1.2,
+    "ConfigVersion": 1.3,
     "ConfigUpdateMsg": "Welcome to UltimateVPN GTMv1",
     "SshPort": "442",
     "SshStunnelPort": "443",
