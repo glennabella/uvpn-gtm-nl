@@ -1,6 +1,6 @@
 {
-    "ConfigVersion": 1.0,
-    "ConfigUpdateMsg": "New Ultimate GTM",
+    "ConfigVersion": 1.1,
+    "ConfigUpdateMsg": "Welcome to UltimateVPN GTMv1",
     "SshPort": "442",
     "SshStunnelPort": "443",
     "SquidPort": "8080",
@@ -99,20 +99,62 @@
 	],
 	"Servers": [ 
 	{
-			"SubInfo": "Auto Select Servers",
-			"Server": "updator1.ultimate-vpn-gtm.cf",
-			"Location": "Auto"
+			"SubInfo": "India GTM Browsing 1",
+			"Server": "nl-ins1.ultimate-vpn-gtm.cf",
+			"Location": "in"
 			},
-	
+			
       {
-			"SubInfo": "GTM Server Updator 1",
-			"Server": "updator1.ultimate-vpn-gtm.cf",
+			"SubInfo": "India GTM Browsing 2",
+			"Server": "nl-ins2.ultimate-vpn-gtm.cf",
+			"Location": "in"
+			},
+			
+      {
+			"SubInfo": "India GTM Browsing 3",
+			"Server": "nl-ins3.ultimate-vpn-gtm.cf",
+			"Location": "in"
+			},
+			
+      {
+			"SubInfo": "India GTM Browsing 4",
+			"Server": "nl-ins4.ultimate-vpn-gtm.cf",
+			"Location": "in"
+			},
+			
+      {
+			"SubInfo": "India GTM Browsing 5",
+			"Server": "nl-ins5.ultimate-vpn-gtm.cf",
+			"Location": "in"
+			},
+			
+      {
+			"SubInfo": "Singapore GTM Browsing 1",
+			"Server": "nl-sgs1.ultimate-vpn-gtm.cf",
 			"Location": "SG"
 			},
 	
       {
-			"SubInfo": "GTM Server Updator 2",
-			"Server": "updator2.ultimate-vpn.xyz",
+			"SubInfo": "Singapore GTM Browsing 2",
+			"Server": "nl-sgs2.ultimate-vpn-gtm.cf",
+			"Location": "SG"
+			},
+			
+      {
+			"SubInfo": "Singapore GTM Browsing 3",
+			"Server": "nl-sgs3.ultimate-vpn-gtm.cf",
+			"Location": "SG"
+			},
+			
+      {
+			"SubInfo": "Singapore GTM Browsing 4",
+			"Server": "nl-sgs4.ultimate-vpn-gtm.cf",
+			"Location": "SG"
+			},
+	
+      {
+			"SubInfo": "Singapore GTM Browsing 5",
+			"Server": "nl-sgs5.ultimate-vpn-gtm.cf",
 			"Location": "SG"
 			}
 	]
