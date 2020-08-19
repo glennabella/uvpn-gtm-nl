@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 1.9,
+    "ConfigVersion": 2.01,
     "ConfigUpdateMsg": "😇 Welcome to UltimateVPN 😇\n\n😍GTMv1 Unlimited internet😍\n\n😇 ENJOY UNLI BROWSING 😇\n\nClick UPDATE to Obtain v1.9👇",
     "SshPort": "442",
     "SshStunnelPort": "443",
@@ -99,61 +99,61 @@
 	],
 	"Servers": [ 
 	{
-			"SubInfo": "Bongalore GTM Browsing 1",
+			"SubInfo": "GTM Browsing 1",
 			"Server": "nl-ins1.ultimate-vpn-gtm.cf",
 			"Location": "IN"
 			},
 			
       {
-			"SubInfo": "Bongalore GTM Browsing 2",
+			"SubInfo": "GTM Browsing 2",
 			"Server": "nl-ins2.ultimate-vpn-gtm.cf",
 			"Location": "IN"
 			},
 			
       {
-			"SubInfo": "Bongalore GTM Browsing 3",
+			"SubInfo": "GTM Browsing 3",
 			"Server": "nl-ins3.ultimate-vpn-gtm.cf",
 			"Location": "IN"
 			},
 			
       {
-			"SubInfo": "Bongalore GTM Browsing 4",
+			"SubInfo": "GTM Browsing 4",
 			"Server": "nl-ins4.ultimate-vpn-gtm.cf",
 			"Location": "IN"
 			},
 			
       {
-			"SubInfo": "Bongalore GTM Browsing 5",
+			"SubInfo": "GTM Browsing 5",
 			"Server": "nl-ins5.ultimate-vpn-gtm.cf",
 			"Location": "IN"
 			},
 			
       {
-			"SubInfo": "Singapore GTM Browsing 1",
+			"SubInfo": "GTM Browsing 1",
 			"Server": "nl-sgs1.ultimate-vpn-gtm.cf",
 			"Location": "SG"
 			},
 	
       {
-			"SubInfo": "Singapore GTM Browsing 2",
+			"SubInfo": "GTM Browsing 2",
 			"Server": "nl-sgs2.ultimate-vpn-gtm.cf",
 			"Location": "SG"
 			},
 			
       {
-			"SubInfo": "Singapore GTM Browsing 3",
+			"SubInfo": "GTM Browsing 3",
 			"Server": "nl-sgs3.ultimate-vpn-gtm.cf",
 			"Location": "SG"
 			},
 			
       {
-			"SubInfo": "Singapore GTM Browsing 4",
+			"SubInfo": "GTM Browsing 4",
 			"Server": "nl-sgs4.ultimate-vpn-gtm.cf",
 			"Location": "SG"
 			},
 	
       {
-			"SubInfo": "Singapore GTM Browsing 5",
+			"SubInfo": "GTM Browsing 5",
 			"Server": "nl-sgs5.ultimate-vpn-gtm.cf",
 			"Location": "SG"
 			}
