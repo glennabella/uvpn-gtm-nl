@@ -1,6 +1,6 @@
 {
-    "ConfigVersion": 2.01,
-    "ConfigUpdateMsg": "😇 Welcome to UltimateVPN 😇\n\n😍GTMv1 Unlimited internet😍\n\n😇 ENJOY UNLI BROWSING 😇\n\nClick UPDATE to Obtain v1.9👇",
+    "ConfigVersion": 2.02,
+    "ConfigUpdateMsg": "😇 Welcome to UltimateVPN 😇\n\n😍GTMv1 Unlimited internet😍\n\n😇 ENJOY UNLI BROWSING 😇\n\nClick UPDATE to Obtain v2.02👇",
     "SshPort": "442",
     "SshStunnelPort": "443",
     "SquidPort": "8080",
