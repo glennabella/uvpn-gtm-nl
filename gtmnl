@@ -1,6 +1,6 @@
 {
-	"ConfigVersion":2.11,
-	"ConfigUpdateMsg":"😇 Welcome to UltimateVPN 😇\n\n😍 GTMv1 Unlimited internet 😍\n\n✅Unlimited Browsing\n✅Unlimited YouTube\n✅Unlimited Download\n✅Unlimited Netflix\n👉All Server Pwedi sa Netflix\n\n😇 😀 - YumiZhien - 😀 😇\n\nClick UPDATE to Obtain v2.11👇",
+	"ConfigVersion":2.12,
+	"ConfigUpdateMsg":"😇 Welcome to UltimateVPN 😇\n- Unli internet No-Load Needed -\n\n✅Unlimited Browsing\n✅Unlimited YouTube\n✅Unlimited Download\n✅Unlimited Netflix\n👉All Server Pwedi sa Netflix\n\n😀 - YumiZhien - 😀 Click "UPDATE"👇",
 	"SshPort":"442",
 	"SshStunnelPort":"443",
 	"SquidPort":"8080",
