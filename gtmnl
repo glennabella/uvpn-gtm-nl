@@ -1,6 +1,6 @@
 {
-	"ConfigVersion":2.13,
-	"ConfigUpdateMsg":"😇 Welcome to UltimateVPN 😇\n- Unli internet No-Load Needed -\n\n✅Unlimited Browsing\n✅Unlimited YouTube\n✅Unlimited Download\n✅Unlimited Netflix\n👉All Server Pwedi sa Netflix\n\n😀 - YumiZhien - 😀 Click UPDATE👇",
+	"ConfigVersion":2.14,
+	"ConfigUpdateMsg":"😇 Welcome to UltimateVPN 😇\n- Unli internet No-Load Needed -\n\n✅Unli Browsing/Streaming\n✅Unli Youtube Stream/Downloaf\n✅Unli Netflix Stream/Download\n👉All Server Pwedi sa Netflix\n\n😀 - YumiZhien - 😀 Click UPDATE👇",
 	"SshPort":"442",
 	"SshStunnelPort":"443",
 	"SquidPort":"8080",
