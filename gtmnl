@@ -94,7 +94,7 @@
 			"CustomProxy":"",
 			"Sni":"",
 			"Payload":"e/KnATRm35vcRsAOIrhirSoxSaEkdOkMG/6oNJLTbCm45Ajlr75GuBBaJtU2ka22BXFXvlB44Ma2/g2SOMmeOuATfPxGSPe6ghbC+9CB0yM="
-		}
+		},
 		{
 			"Name":"[INJECT] NoLoad Payload 11",
 			"FrontQuery":"",
@@ -176,6 +176,7 @@
 			"Sni":"",
 			"Payload":"CIhe2xphT8f7I3Cs21aaQ6D5sYThaU3L+pFwuV4tt2AYVB5i+nNIbvEnKHXqm+DF3YdVVPFtLPz+YKIU6cYiHw=="
 		},
+		{
 			"Name":"[INJECT] NoLoad Payload 20",
 			"FrontQuery":"",
 			"BackQuery":"",
