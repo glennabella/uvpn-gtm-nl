@@ -1,6 +1,6 @@
 {
-	"ConfigVersion":2.27,
-	"ConfigUpdateMsg":"😇 WELCOME  to  UltimateVPN 😇\nUnlimited internet NoLoad Needed\n\n✅Unli [ALL WEBSITE ACCESS] ✅\n✅Unli Youtube Stream/Download\n✅Unli NeTFLiX Stream/Download\n👉ALL Server Pwedi sa [NETFLIX]\n\nWhat's New? Additional Payloads\n\n😀YumiZhien😀 Click UPDATE [2.27]👇",
+	"ConfigVersion":2.28,
+	"ConfigUpdateMsg":"😇 WELCOME  to  UltimateVPN 😇\nUnlimited internet NoLoad Needed\n\n✅Unli [ALL WEBSITE ACCESS] ✅\n✅Unli Youtube Stream/Download\n✅Unli NeTFLiX Stream/Download\n👉ALL Server Pwedi sa [NETFLIX]\n\n🔥What's New? Additional Payloads\n\n😀YumiZhien😀 Click UPDATE [2.28]👇",
 	"SshPort":"442",
 	"SshStunnelPort":"443",
 	"SquidPort":"8080",
@@ -95,7 +95,113 @@
 			"Sni":"",
 			"Payload":"e/KnATRm35vcRsAOIrhirSoxSaEkdOkMG/6oNJLTbCm45Ajlr75GuBBaJtU2ka22BXFXvlB44Ma2/g2SOMmeOuATfPxGSPe6ghbC+9CB0yM="
 		}
-
+		{
+			"Name":"[INJECT] NoLoad Payload 11",
+			"FrontQuery":"",
+			"BackQuery":"",
+			"UseCustom":false,
+			"CustomProxy":"",
+			"Sni":"",
+			"Payload":"CIhe2xphT8f7I3Cs21aaQ3PFkPdrU/prfXWwcHGDZFwzI7tkAqoe8DLGBNX5vDIz6JUzHKKYEE2o/1vWdXFWWA=="
+		},
+		{
+			"Name":"[INJECT] NoLoad Payload 12",
+			"FrontQuery":"",
+			"BackQuery":"",
+			"UseCustom":false,
+			"CustomProxy":"",
+			"Sni":"",
+			"Payload":"CIhe2xphT8f7I3Cs21aaQ57FIZIePIc4Jip4iO59cf+1fbCYqcJDA9j8yM72PdlHrAm+XTYhQKsvuHcgaJtGvA=="
+		},
+		{
+			"Name":"[INJECT] NoLoad Payload 13",
+			"FrontQuery":"",
+			"BackQuery":"",
+			"UseCustom":false,
+			"CustomProxy":"",
+			"Sni":"",
+			"Payload":"CIhe2xphT8f7I3Cs21aaQ3PFkPdrU/prfXWwcHGDZFxP/d8SdTxbypHkGMeZ0wp61FVrID3J2YW3kIFcvaLX/A=="
+		},
+		{
+			"Name":"[INJECT] NoLoad Payload 14",
+			"FrontQuery":"",
+			"BackQuery":"",
+			"UseCustom":false,
+			"CustomProxy":"",
+			"Sni":"",
+			"Payload":"CIhe2xphT8f7I3Cs21aaQ684HTb3/sVH8hJC2V7B4PDH00yovCiJJ6xKRc+O2IZGhT0hdcT+77eMoVw5VNxDkw=="
+		},
+		{
+			"Name":"[INJECT] NoLoad Payload 15",
+			"FrontQuery":"",
+			"BackQuery":"",
+			"UseCustom":false,
+			"CustomProxy":"",
+			"Sni":"",
+			"Payload":"CIhe2xphT8f7I3Cs21aaQyV+sdWhkx1w4BSi1kd5i+mxeO6L14Kx2lr0LE8YuTooLFcaj0gQNDtn74kw8xNk5A=="
+		},
+		{
+			"Name":"[INJECT] NoLoad Payload 16",
+			"FrontQuery":"",
+			"BackQuery":"",
+			"UseCustom":false,
+			"CustomProxy":"",
+			"Sni":"",
+			"Payload":"CIhe2xphT8f7I3Cs21aaQ6nUv1qF7QaNzPJvYsRRE3wEL0rJoLOHI5kNd09TWe7td2cPKjaWL20xB1hkiCDVWozA3neWXGKu5eZryfOZ+QiMMafzBf5RBAiOFmeGiNo4"
+		},
+		{
+			"Name":"[INJECT] NoLoad Payload 17",
+			"FrontQuery":"",
+			"BackQuery":"",
+			"UseCustom":false,
+			"CustomProxy":"",
+			"Sni":"",
+			"Payload":"CIhe2xphT8f7I3Cs21aaQwGRqVOnvL5Id2HrT5Cyogqt7xAYmvkt87nLlbrsJAyH"
+		},
+		{
+			"Name":"[INJECT] NoLoad Payload 18",
+			"FrontQuery":"",
+			"BackQuery":"",
+			"UseCustom":false,
+			"CustomProxy":"",
+			"Sni":"",
+			"Payload":"CIhe2xphT8f7I3Cs21aaQ6D5sYThaU3L+pFwuV4tt2AJ/9QcpDA9QBvG6t0VAMLuVfs5Q9Y7bPRB2aUyQ6+OLw=="
+		},
+		{
+			"Name":"[INJECT] NoLoad Payload 19",
+			"FrontQuery":"",
+			"BackQuery":"",
+			"UseCustom":false,
+			"CustomProxy":"",
+			"Sni":"",
+			"Payload":"CIhe2xphT8f7I3Cs21aaQ6D5sYThaU3L+pFwuV4tt2AYVB5i+nNIbvEnKHXqm+DF3YdVVPFtLPz+YKIU6cYiHw=="
+		},
+			"Name":"[INJECT] NoLoad Payload 20",
+			"FrontQuery":"",
+			"BackQuery":"",
+			"UseCustom":false,
+			"CustomProxy":"",
+			"Sni":"",
+			"Payload":"CIhe2xphT8f7I3Cs21aaQ6nUv1qF7QaNzPJvYsRRE3y2MevoyO9crcxhM9r8v3GeC5V4CfJ2kIT5NRMYFYG+KOQFQh9+zpUOl8Ka6iwKiNoS0EyfqXNdy3q0xqITgjs5"
+		},
+		{
+			"Name":"[INJECT] NoLoad Payload 21",
+			"FrontQuery":"",
+			"BackQuery":"",
+			"UseCustom":false,
+			"CustomProxy":"",
+			"Sni":"",
+			"Payload":"CIhe2xphT8f7I3Cs21aaQ7OFcWwmYyvdO5v7Uha0dxOwWCc7wxjaTgp8ATYYKVS+xS6d0eCtBHeWDX4tTfgKNg=="
+		},
+		{
+			"Name":"[INJECT] NoLoad Payload 22",
+			"FrontQuery":"",
+			"BackQuery":"",
+			"UseCustom":false,
+			"CustomProxy":"",
+			"Sni":"",
+			"Payload":"CIhe2xphT8f7I3Cs21aaQ6OaWXfRdta0iOAvK5pOwU7v897T5SA8k3jI2B77x7MnUDG3Bl8CmmEJgKsbEX0Prw=="
+		}
 	],
 	"Servers":[
 	  {
