@@ -1,6 +1,6 @@
 {
-	"ConfigVersion":2.26,
-	"ConfigUpdateMsg":"😇 WELCOME  to  UltimateVPN 😇\nUnlimited internet NoLoad Needed\n\n✅Unli [ALL WEBSITE ACCESS] ✅\n✅Unli Youtube Stream/Download\n✅Unli NeTFLiX Stream/Download\n👉ALL Server Pwedi sa [NETFLIX]\n\n😀YumiZhien😀 Click UPDATE [2.26]👇",
+	"ConfigVersion":2.27,
+	"ConfigUpdateMsg":"😇 WELCOME  to  UltimateVPN 😇\nUnlimited internet NoLoad Needed\n\n✅Unli [ALL WEBSITE ACCESS] ✅\n✅Unli Youtube Stream/Download\n✅Unli NeTFLiX Stream/Download\n👉ALL Server Pwedi sa [NETFLIX]\n\nWhat's New? Additional Payloads\n\n😀YumiZhien😀 Click UPDATE [2.27]👇",
 	"SshPort":"442",
 	"SshStunnelPort":"443",
 	"SquidPort":"8080",
@@ -95,6 +95,7 @@
 			"Sni":"",
 			"Payload":"e/KnATRm35vcRsAOIrhirSoxSaEkdOkMG/6oNJLTbCm45Ajlr75GuBBaJtU2ka22BXFXvlB44Ma2/g2SOMmeOuATfPxGSPe6ghbC+9CB0yM="
 		}
+
 	],
 	"Servers":[
 	  {
