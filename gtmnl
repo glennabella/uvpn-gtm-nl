@@ -1,6 +1,6 @@
 {
-	"ConfigVersion":2.33,
-	"ConfigUpdateMsg":"😇 WELCOME  to  UltimateVPN 😇\nUnlimited internet NoLoad Needed\n\n✅Unli [ALL WEBSITE ACCESS] ✅\n✅Unli Youtube Stream/Download\n✅Unli NeTFLiX Stream/Download\n👉ALL Server Pwedi sa [NETFLIX]\n\n🔥What's New? NEW SET-UP😇\n\n😀YumiZhien😀 Click UPDATE [2.33]👇",
+	"ConfigVersion":2.34,
+	"ConfigUpdateMsg":"😇 WELCOME  to  UltimateVPN 😇\nUnlimited internet NoLoad Needed\n\n✅Unli [ALL WEBSITE ACCESS] ✅\n✅Unli Youtube Stream/Download\n✅Unli NeTFLiX Stream/Download\n👉ALL Server Pwedi sa [NETFLIX]\n\n🔥What's New? NEW SET-UP😇\n\n😀YumiZhien😀 Click UPDATE [2.34]👇",
 	"SshPort":"2500",
 	"SshStunnelPort":"443",
 	"SquidPort":"90",
@@ -206,17 +206,17 @@
 	],
 	"Servers":[
 	  {
-			"SubInfo":"Resources UPDATOR - [ vip ]",
+			"SubInfo":"[Prem] Browsing Sg-1",
 			"Server":"nl-ins1.ultimate-vpn-gtm.cf",
 			"Location":"IN"
 		},
 		{
-			"SubInfo":"TORRENT & NETFLIX - [ vip ]",
+			"SubInfo":"TORRENT & NETFLIX - [ prm ]",
 			"Server":"www.viber.com.edgekey.net.vip-tornet.ultimatevpn.xyz",
 			"Location":"SG"
 		},
 		{
-			"SubInfo":"TURBO BROWSING 1 - [ vip ]",
+			"SubInfo":"TURBO BROWSING 1 - [ prem ]",
 			"Server":"www.viber.com.edgekey.net.vip-sgb1.ultimatevpn.xyz",
 			"Location":"SG"
 		},
