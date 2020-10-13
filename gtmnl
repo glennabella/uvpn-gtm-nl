@@ -1,6 +1,6 @@
 {
-	"ConfigVersion":3.006,
-	"ConfigUpdateMsg":"😇 WELCOME  to  UltimateVPN 😇\nUnlimited internet NoLoad Needed\n\n✅Unli [ALL WEBSITE ACCESS] ✅\n✅Unli Youtube Stream/Download\n✅Unli NeTFLiX Stream/Download\n👉ALL Server Pwedi sa [NETFLIX]\n\n🔥What's New? NEW SET-UP😇\n\n😀YumiZhien😀 Click UPDATE [3.006]👇",
+	"ConfigVersion":3.007,
+	"ConfigUpdateMsg":"😇 WELCOME  to  UltimateVPN 😇\nUnlimited internet NoLoad Needed\n\n✅Unli [ALL WEBSITE ACCESS] ✅\n✅Unli Youtube Stream/Download\n✅Unli NeTFLiX Stream/Download\n👉ALL Server Pwedi sa [NETFLIX]\n\n🔥What's New? NEW SET-UP😇\n\n😀YumiZhien😀 Click UPDATE [3.007]👇",
 	"SshPort":"2500",
 	"SshStunnelPort":"447",
 	"SquidPort":"90",
@@ -206,63 +206,68 @@
 	],
 	"Servers":[
 	  {
-			"SubInfo":"BROWSING -SG-1  [prm]",
-			"Server":"pre-sgbu.ultimatevpn.xyz",
-			"Location":"SG"
+			"SubInfo":"[Prem] Amsterdam  [prm]",
+			"Server":"pre-nlb1.ultimatevpn.xyz",
+			"Location":"NL"
 		},
 		{
-			"SubInfo":"BROWSING -SG-2  [prm]",
-			"Server":"pre-sgb2.ultimatevpn.xyz",
-			"Location":"SG"
+			"SubInfo":"[Prem] CANADA  [prm]",
+			"Server":"pre-cab1.ultimatevpn.xyz",
+			"Location":"CA"
 		},
 		{
-			"SubInfo":"BROWSING -SG-3  [prm]",
-			"Server":"pre-sgb3.ultimatevpn.xyz",
-			"Location":"SG"
+			"SubInfo":"[Prem] GERMANY  [prm]",
+			"Server":"pre-deb1.ultimatevpn.xyz",
+			"Location":"DE"
 		},
 		{
-			"SubInfo":"BROWSING -US-1  [prm]",
-			"Server":"pre-usb1.ultimatevpn.xyz",
+			"SubInfo":"[Prem] NEW-YORK  [prm]",
+			"Server":"pre-nyb1.ultimatevpn.xyz",
 			"Location":"US"
 		},
 		{
-			"SubInfo":"BROWSING -US-2  [prm]",
-			"Server":"pre-usb2.ultimatevpn.xyz",
-			"Location":"US"
+			"SubInfo":"[Prem] SINGAPORE  [prm]",
+			"Server":"pre-sgb1.ultimatevpn.xyz",
+			"Location":"SG"
 		},
 		{
-			"SubInfo":"BROWSING -US-3  [prm]",
-			"Server":"pre-usb3.ultimatevpn.xyz",
-			"Location":"US"
-		},
-		{
-			"SubInfo":"Torrent & Netflix  [vip]",
+			"SubInfo":"[ViP] Torrent Netflix  [vip]",
 			"Server":"vip-tornet.ultimatevpn.xyz",
 			"Location":"SG"
 		},
 		{
-			"SubInfo":"BROWSING - SG  [vip]",
-			"Server":"vip-sgb1.ultimatevpn.xyz",
+			"SubInfo":"[ViP] SINGAPORE -1  [vip]",
+			"Server":"vip-sgbg1.ultimatevpn.xyz",
 			"Location":"SG"
 		},
 		{
-			"SubInfo":"BROWSING - JP  [vip]",
-			"Server":"vip-jpb1.ultimatevpn.xyz",
+			"SubInfo":"[ViP] SINGAPORE -2  [vip]",
+			"Server":"vip-sgbg2.ultimatevpn.xyz",
+			"Location":"SG"
+		},
+		{
+			"SubInfo":"[ViP] JAPAN VULTR  [vip]",
+			"Server":"vip-jpbg1.ultimatevpn.xyz",
 			"Location":"JP"
 		},
 		{
-			"SubInfo":"Torrent & Netflix  [prv]",
+			"SubInfo":"[Priv] Torrent Netflix  [prv]",
 			"Server":"pri-tornet.ultimatevpn.xyz",
 			"Location":"US"
 		},
 		{
-			"SubInfo":"BROWSING - SG  [prv]",
-			"Server":"pri-sgb1.ultimatevpn.xyz",
+			"SubInfo":"[Priv] SINGAPORE  [prv]",
+			"Server":"pri-sgbg1.ultimatevpn.xyz",
 			"Location":"SG"
 		},
 		{
-			"SubInfo":"BROWSING - PH  [prv]",
-			"Server":"pri-phb1.ultimatevpn.xyz",
+			"SubInfo":"[Priv] JAPAN VULTR  [prv]",
+			"Server":"pri-jpbg1.ultimatevpn.xyz",
+			"Location":"SG"
+		},
+		{
+			"SubInfo":"[Priv] PHILLIPINES  [prv]",
+			"Server":"pri-phbg1.ultimatevpn.xyz",
 			"Location":"PH"
 		}
 	]
