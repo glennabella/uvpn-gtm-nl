@@ -1,7 +1,7 @@
 {
-	"ConfigVersion":3.009,
-	"ConfigUpdateMsg":"😇 WELCOME  to  UltimateVPN 😇\nUnlimited internet NoLoad Needed\n\n✅Unli [ALL WEBSITE ACCESS] ✅\n✅Unli Youtube Stream/Download\n✅Unli NeTFLiX Stream/Download\n👉ALL Server Pwedi sa [NETFLIX]\n\n🔥What's New? NEW SET-UP😇\n\n😀YumiZhien😀 Click UPDATE [3.009]👇",
-	"SshPort":"2500",
+	"ConfigVersion":3.011,
+	"ConfigUpdateMsg":"😇 WELCOME  to  UltimateVPN 😇\nUnlimited internet NoLoad Needed\n\n✅Unli [ALL WEBSITE ACCESS] ✅\n✅Unli Youtube Stream/Download\n✅Unli NeTFLiX Stream/Download\n👉ALL Server Pwedi sa [NETFLIX]\n\n🔥What's New? NEW SET-UP😇\n\n😀YumiZhien😀 Click UPDATE [3.011]👇",
+	"SshPort":"22",
 	"SshStunnelPort":"447",
 	"SquidPort":"90",
 	"Spoofs":[
