@@ -1,7 +1,7 @@
 {
-	"ConfigVersion":3.014,
-	"ConfigUpdateMsg":"😇 WELCOME  to  UltimateVPN 😇\nUnlimited internet NoLoad Needed\n\n✅Unli [ALL WEBSITE ACCESS] ✅\n✅Unli Youtube Stream/Download\n✅Unli NeTFLiX Stream/Download\n👉ALL Server Pwedi sa [NETFLIX]\n\n🔥What's New? Dedicated Server Added😇\n\n😀YumiZhien😀 Click UPDATE [3.014]👇",
-	"SshPort":"2500",
+	"ConfigVersion":3.015,
+	"ConfigUpdateMsg":"😇 WELCOME  to  UltimateVPN 😇\nUnlimited internet NoLoad Needed\n\n✅Unli [ALL WEBSITE ACCESS] ✅\n✅Unli Youtube Stream/Download\n✅Unli NeTFLiX Stream/Download\n👉ALL Server Pwedi sa [NETFLIX]\n\n🔥What's New? NEW SET-UP😇\n\n😀YumiZhien😀 Click UPDATE [3.015]👇",
+	"SshPort":"22",
 	"SshStunnelPort":"447",
 	"SquidPort":"90",
 	"Spoofs":[
@@ -49,50 +49,32 @@
 			"CustomProxy":"",
 			"Sni":"",
 			"Payload":"dyIC/+3YCHi866MwjZq4VT+6Ogv0zKDIA/Rj5KWYehkqNjLbD1FxlQmoS6rx5zkPficWFTgpjM6aPm7ANp8CqoVhOqAQXWqJsorSCo68RTk="
-		},
-		{
-			"Name":"[Direct] SUN PROMO TEST (SSL)",
-			"FrontQuery":"",
-			"BackQuery":"",
-			"UseCustom":false,
-			"CustomProxy":"",
-			"Sni":"kiatstatic.tlcdn4.line.naver.jp.fb.me",
-			"Payload":""
-		},
-		{
-			"Name":"[Direct] GTM PROMO TEST (SSL)",
-			"FrontQuery":"",
-			"BackQuery":"",
-			"UseCustom":false,
-			"CustomProxy":"",
-			"Sni":"www.googlevideo.com",
-			"Payload":""
 		}
 	],
 	"Servers":[
-		{
+	  {
 			"SubInfo":"Torrent  RESOURCES Updater [prm]",
 			"Server":"pre-nlb1.ultimatevpn.xyz",
 			"Location":"NL"
 		},
-	  {
+		{
 			"SubInfo":"UltimateGTM TURBO SGDO-1 [prm]",
-			"Server":"104.248.156.120",
+			"Server":"gtm-sgdo1.ultimatevpn.xyz",
 			"Location":"SG"
 		},
 		{
-			"SubInfo":"UltimateGTM TURBO SGDO-2  [prm]",
-			"Server":"206.189.153.177",
+			"SubInfo":"UltimateGTM TURBO SGDO-2 [prm]",
+			"Server":"gtm-sgdo2.ultimatevpn.xyz",
 			"Location":"SG"
 		},
 		{
-			"SubInfo":"UltimateGTM TURBO SGDO-3  [prm]",
-			"Server":"206.189.147.76",
+			"SubInfo":"UltimateGTM TURBO SGDO-3 [prm]",
+			"Server":"gtm-sgdo3.ultimatevpn.xyz",
 			"Location":"SG"
 		},
 		{
-			"SubInfo":"UltimateGTM TURBO SGDO-4  [prm]",
-			"Server":"206.189.40.11",
+			"SubInfo":"UltimateGTM TURBO SGDO-4 [prm]",
+			"Server":"gtm-sgdo4.ultimatevpn.xyz",
 			"Location":"SG"
 		}
 	]
