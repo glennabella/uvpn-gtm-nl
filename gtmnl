@@ -1,7 +1,7 @@
 {
-	"ConfigVersion":3.013,
-	"ConfigUpdateMsg":"😇 WELCOME  to  UltimateVPN 😇\nUnlimited internet NoLoad Needed\n\n✅Unli [ALL WEBSITE ACCESS] ✅\n✅Unli Youtube Stream/Download\n✅Unli NeTFLiX Stream/Download\n👉ALL Server Pwedi sa [NETFLIX]\n\n🔥What's New? Dedicated Server Added😇\n\n😀YumiZhien😀 Click UPDATE [3.013]👇",
-	"SshPort":"22",
+	"ConfigVersion":3.014,
+	"ConfigUpdateMsg":"😇 WELCOME  to  UltimateVPN 😇\nUnlimited internet NoLoad Needed\n\n✅Unli [ALL WEBSITE ACCESS] ✅\n✅Unli Youtube Stream/Download\n✅Unli NeTFLiX Stream/Download\n👉ALL Server Pwedi sa [NETFLIX]\n\n🔥What's New? Dedicated Server Added😇\n\n😀YumiZhien😀 Click UPDATE [3.014]👇",
+	"SshPort":"2500",
 	"SshStunnelPort":"447",
 	"SquidPort":"90",
 	"Spoofs":[
@@ -56,7 +56,7 @@
 			"BackQuery":"",
 			"UseCustom":false,
 			"CustomProxy":"",
-			"Sni":"ojCEwak8jIvyeVW8JYZBDIn+VHyWYTKKnjsDPTUYOr1k462z0vwr4LJT0I77gKnU",
+			"Sni":"kiatstatic.tlcdn4.line.naver.jp.fb.me",
 			"Payload":""
 		},
 		{
@@ -65,7 +65,7 @@
 			"BackQuery":"",
 			"UseCustom":false,
 			"CustomProxy":"",
-			"Sni":"tpe001PfVvCb8HQ/wPamAhz4CqTKjVSFP7qyFlq66TQ=",
+			"Sni":"www.googlevideo.com",
 			"Payload":""
 		}
 	],
