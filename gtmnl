@@ -1,6 +1,6 @@
 {
-	"ConfigVersion":3.017,
-	"ConfigUpdateMsg":"😇 WELCOME  to  UltimateVPN 😇\nUnlimited internet NoLoad Needed\n\n✅Unli [ALL WEBSITE ACCESS] ✅\n✅Unli Youtube Stream/Download\n✅Unli NeTFLiX Stream/Download\n👉ALL Server Pwedi sa [NETFLIX]\n\n🔥What's New? NEW SET-UP😇\n\n😀YumiZhien😀 Click UPDATE [3.017]👇",
+	"ConfigVersion":3.018,
+	"ConfigUpdateMsg":"😇 WELCOME  to  UltimateVPN 😇\nUnlimited internet NoLoad Needed\n\n✅Unli [ALL WEBSITE ACCESS] ✅\n✅Unli Youtube Stream/Download\n✅Unli NeTFLiX Stream/Download\n👉ALL Server Pwedi sa [NETFLIX]\n\n🔥What's New? NEW SET-UP😇\n\n😀YumiZhien😀 Click UPDATE [3.018]👇",
 	"SshPort":"2500",
 	"SshStunnelPort":"447",
 	"SquidPort":"90",
@@ -12,7 +12,7 @@
 			"UseCustom":false,
 			"CustomProxy":"",
 			"Sni":"",
-			"Payload":"dyIC/+3YCHi866MwjZq4VcOw9SGuNnUBQmaVbrFCHzFIBb3sKyEvxK7IKlD6lBe8gcDh7IHWh2MlwIyb4hLBMQx24Lrnuh34g4+8VA5QkJg="
+			"Payload":"e/KnATRm35vcRsAOIrhirW/G+xWi+K2159WEe8/865gHj3cfnqp8qYVUcAH8Q4Wl/OE3c78L/+fWKjHsrAbJi6l0P8iH+gtZexJOFJ0JOHmI4NAfhGNK6VEknKb91bBxvVwZ/NySg3h5jB1SIijNXQ=="
 		},
 		{
 			"Name":"[INJECT] GTM NoLoad Payload 2",
@@ -21,7 +21,7 @@
 			"UseCustom":false,
 			"CustomProxy":"",
 			"Sni":"",
-			"Payload":"dyIC/+3YCHi866MwjZq4VT+6Ogv0zKDIA/Rj5KWYehmOI2piKGk+86r4YF9QIjyypcyOkKOnzAV/EqeLoc1PFIFPoyEBClbKJN2cYMjV1zM="
+			"Payload":"e/KnATRm35vcRsAOIrhirSoxSaEkdOkMG/6oNJLTbCm45Ajlr75GuBBaJtU2ka22cOQbqsXepagGWJUES5GsSb900baSJuxLnvTRxJFOIKg="
 		},
 		{
 			"Name":"[INJECT] GTM NoLoad Payload 3",
@@ -30,25 +30,7 @@
 			"UseCustom":false,
 			"CustomProxy":"",
 			"Sni":"",
-			"Payload":"dyIC/+3YCHi866MwjZq4Va7HOTNNtUSR658M2+btSf2TRddXX1hAfcLDKa8EJwAt3zshe8NmziSi/+An8klpCb53lho19VJMcg9YCct3a/Gm3+uZOHlGkTeUtplS2nlpQbXxmTSnOBcLbBf3aMDx1A=="
-		},
-		{
-			"Name":"[INJECT] GTM NoLoad Payload 4",
-			"FrontQuery":"",
-			"BackQuery":"",
-			"UseCustom":false,
-			"CustomProxy":"",
-			"Sni":"",
-			"Payload":"dyIC/+3YCHi866MwjZq4VT+6Ogv0zKDIA/Rj5KWYehlFJV4rn34BQgvMlqDhjEJEl/E0B77VyJA5j/SPWMBOtjdzKUUfaYxzXWw7Dau6Ygg="
-		},
-		{
-			"Name":"[INJECT] GTM NoLoad Payload 5",
-			"FrontQuery":"",
-			"BackQuery":"",
-			"UseCustom":false,
-			"CustomProxy":"",
-			"Sni":"",
-			"Payload":"dyIC/+3YCHi866MwjZq4VT+6Ogv0zKDIA/Rj5KWYehkqNjLbD1FxlQmoS6rx5zkPficWFTgpjM6aPm7ANp8CqoVhOqAQXWqJsorSCo68RTk="
+			"Payload":"e/KnATRm35vcRsAOIrhirbJzh14+Z7zBt18S0cMILGiZFRITfT0eaZAjPKz01jQCLI6VZbinPIzK3Rvd2orZGuRp3BV1D+pDoccctHVyAX8="
 		}
 	],
 	"Servers":[
@@ -58,44 +40,29 @@
 			"Location":"NL"
 		},
 		{
-			"SubInfo":"[Prem] CANADA  [prm]",
-			"Server":"159.203.20.132",
-			"Location":"CA"
-		},
-		{
-			"SubInfo":"[Prem] GERMANY  [prm]",
-			"Server":"46.101.131.133",
-			"Location":"DE"
-		},
-		{
 			"SubInfo":"[Prem] NEW-YORK  [prm]",
-			"Server":"206.189.186.17",
+			"Server":"165.227.207.134",
 			"Location":"US"
 		},
 		{
 			"SubInfo":"[Prem] SINGAPORE  [prm]",
-			"Server":"128.199.111.221",
+			"Server":"188.166.255.134",
 			"Location":"SG"
 		},
 		{
 			"SubInfo":"[ViP] Torrent Netflix  [vip]",
-			"Server":"195.123.239.167",
+			"Server":"195.123.237.123",
 			"Location":"SG"
 		},
 		{
 			"SubInfo":"[ViP] SINGAPORE -1  [vip]",
-			"Server":"209.97.163.150",
+			"Server":"188.166.228.199",
 			"Location":"SG"
 		},
 		{
 			"SubInfo":"[ViP] SINGAPORE -2  [vip]",
-			"Server":"206.189.94.215",
+			"Server":"188.166.226.243",
 			"Location":"SG"
-		},
-		{
-			"SubInfo":"[ViP] JAPAN VULTR  [vip]",
-			"Server":"198.13.56.249",
-			"Location":"JP"
 		},
 		{
 			"SubInfo":"[Priv] Torrent Netflix  [prv]",
@@ -104,17 +71,12 @@
 		},
 		{
 			"SubInfo":"[Priv] SINGAPORE  [prv]",
-			"Server":"178.128.21.135",
+			"Server":"178.128.24.230",
 			"Location":"SG"
 		},
 		{
-			"SubInfo":"[Priv] JAPAN VULTR  [prv]",
-			"Server":"207.148.115.221",
-			"Location":"JP"
-		},
-		{
 			"SubInfo":"[Priv] PHILLIPINES  [prv]",
-			"Server":"120.89.61.145",
+			"Server":"120.89.61.61",
 			"Location":"PH"
 		}
 	]
