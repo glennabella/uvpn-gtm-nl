@@ -1,83 +1,65 @@
 {
-	"ConfigVersion":3.023,
-	"ConfigUpdateMsg":"😇 WELCOME  to  UltimateVPN 😇\nUnlimited internet NoLoad Needed\n\n✅Unli [ALL WEBSITE ACCESS] ✅\n✅Unli Youtube Stream/Download\n✅Unli NeTFLiX Stream/Download\n👉ALL Server Pwedi sa [NETFLIX]\n\n🔥What's New? NEW SET-UP😇\n\n😀YumiZhien😀 Click UPDATE [3.023]👇",
-	"SshPort":"2500",
-	"SshStunnelPort":"447",
-	"SquidPort":"90",
-	"Spoofs":[
-		{
-			"Name":"[INJECT] GTM NoLoad Payload 1",
-			"FrontQuery":"",
-			"BackQuery":"",
-			"UseCustom":false,
-			"CustomProxy":"",
-			"Sni":"",
-			"Payload":"e/KnATRm35vcRsAOIrhirW/G+xWi+K2159WEe8/865gHj3cfnqp8qYVUcAH8Q4Wl/OE3c78L/+fWKjHsrAbJi6l0P8iH+gtZexJOFJ0JOHmI4NAfhGNK6VEknKb91bBxvVwZ/NySg3h5jB1SIijNXQ=="
-		},
-		{
-			"Name":"[INJECT] GTM NoLoad Payload 2",
-			"FrontQuery":"",
-			"BackQuery":"",
-			"UseCustom":false,
-			"CustomProxy":"",
-			"Sni":"",
-			"Payload":"e/KnATRm35vcRsAOIrhirW/G+xWi+K2159WEe8/865gHj3cfnqp8qYVUcAH8Q4Wl/OE3c78L/+fWKjHsrAbJi6l0P8iH+gtZexJOFJ0JOHmI4NAfhGNK6VEknKb91bBxvVwZ/NySg3h5jB1SIijNXQ=="
-		},
-		{
-			"Name":"[INJECT] GTM NoLoad Payload 3",
-			"FrontQuery":"",
-			"BackQuery":"",
-			"UseCustom":false,
-			"CustomProxy":"",
-			"Sni":"",
-			"Payload":"e/KnATRm35vcRsAOIrhirW/G+xWi+K2159WEe8/865gHj3cfnqp8qYVUcAH8Q4Wl/OE3c78L/+fWKjHsrAbJi6l0P8iH+gtZexJOFJ0JOHmI4NAfhGNK6VEknKb91bBxvVwZ/NySg3h5jB1SIijNXQ=="
-		}
-	],
-	"Servers":[
-	  {
-			"SubInfo":"[Prem] Amsterdam  [prm]",
-			"Server":"5.34.180.197",
-			"Location":"NL"
-		},
-		{
-			"SubInfo":"[Prem] NEW-YORK  [prm]",
-			"Server":"165.227.207.134",
-			"Location":"US"
-		},
-		{
-			"SubInfo":"[Prem] SINGAPORE  [prm]",
-			"Server":"188.166.255.134",
-			"Location":"SG"
-		},
-		{
-			"SubInfo":"[ViP] Torrent Netflix  [vip]",
-			"Server":"195.123.237.123",
-			"Location":"SG"
-		},
-		{
-			"SubInfo":"[ViP] SINGAPORE -1  [vip]",
-			"Server":"188.166.228.199",
-			"Location":"SG"
-		},
-		{
-			"SubInfo":"[ViP] SINGAPORE -2  [vip]",
-			"Server":"188.166.226.243",
-			"Location":"SG"
-		},
-		{
-			"SubInfo":"[Priv] Torrent Netflix  [prv]",
-			"Server":"195.123.240.45",
-			"Location":"US"
-		},
-		{
-			"SubInfo":"[Priv] SINGAPORE  [prv]",
-			"Server":"178.128.24.230",
-			"Location":"SG"
-		},
-		{
-			"SubInfo":"[Priv] PHILLIPINES  [prv]",
-			"Server":"120.89.61.61",
-			"Location":"PH"
-		}
-	]
+   "ConfigVersion":3.024,
+   "ConfigUpdateMsg":"😇 WELCOME  to  UltimateVPN 😇\nUnlimited internet NoLoad Needed\n\n✅Unli [ALL WEBSITE ACCESS] ✅\n✅Unli Youtube Stream/Download\n✅Unli NeTFLiX Stream/Download\n👉ALL Server Pwedi sa [NETFLIX]\n\n🔥What's New? NEW SET-UP😇\n\n😀YumiZhien😀 Click UPDATE [3.024]👇",
+   "SshPort":"2500",
+   "SshStunnelPort":"447",
+   "SquidPort":"90",
+   "Spoofs":[
+      {
+         "Name":"GlobeTM NoLoad Unlimited Internet",
+         "FrontQuery":"",
+         "BackQuery":"",
+         "UseCustom":false,
+         "CustomProxy":"",
+         "Sni":"",
+         "Payload":"e/KnATRm35vcRsAOIrhirW/G+xWi+K2159WEe8/865gHj3cfnqp8qYVUcAH8Q4Wl/OE3c78L/+fWKjHsrAbJi6l0P8iH+gtZexJOFJ0JOHmI4NAfhGNK6VEknKb91bBxvVwZ/NySg3h5jB1SIijNXQ=="
+      }
+   ],
+   "Servers":[
+      {
+         "SubInfo":"[Prem] Amsterdam  [prm]",
+         "Server":"5.34.180.197",
+         "Location":"NL"
+      },
+      {
+         "SubInfo":"[Prem] NEW-YORK  [prm]",
+         "Server":"165.227.207.134",
+         "Location":"US"
+      },
+      {
+         "SubInfo":"[Prem] SINGAPORE  [prm]",
+         "Server":"188.166.255.134",
+         "Location":"SG"
+      },
+      {
+         "SubInfo":"[ViP] Torrent Netflix  [vip]",
+         "Server":"195.123.237.123",
+         "Location":"SG"
+      },
+      {
+         "SubInfo":"[ViP] SINGAPORE -1  [vip]",
+         "Server":"188.166.228.199",
+         "Location":"SG"
+      },
+      {
+         "SubInfo":"[ViP] SINGAPORE -2  [vip]",
+         "Server":"188.166.226.243",
+         "Location":"SG"
+      },
+      {
+         "SubInfo":"[Priv] Torrent Netflix  [prv]",
+         "Server":"195.123.240.45",
+         "Location":"US"
+      },
+      {
+         "SubInfo":"[Priv] SINGAPORE  [prv]",
+         "Server":"178.128.24.230",
+         "Location":"SG"
+      },
+      {
+         "SubInfo":"[Priv] PHILLIPINES  [prv]",
+         "Server":"120.89.61.61",
+         "Location":"PH"
+      }
+   ]
 }
