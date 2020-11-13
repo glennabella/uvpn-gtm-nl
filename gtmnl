@@ -1,12 +1,30 @@
 {
-	"ConfigVersion":3.022,
-	"ConfigUpdateMsg":"😇 WELCOME  to  UltimateVPN 😇\nUnlimited internet NoLoad Needed\n\n✅Unli [ALL WEBSITE ACCESS] ✅\n✅Unli Youtube Stream/Download\n✅Unli NeTFLiX Stream/Download\n👉ALL Server Pwedi sa [NETFLIX]\n\n🔥What's New? NEW SET-UP😇\n\n😀YumiZhien😀 Click UPDATE [3.022]👇",
+	"ConfigVersion":3.023,
+	"ConfigUpdateMsg":"😇 WELCOME  to  UltimateVPN 😇\nUnlimited internet NoLoad Needed\n\n✅Unli [ALL WEBSITE ACCESS] ✅\n✅Unli Youtube Stream/Download\n✅Unli NeTFLiX Stream/Download\n👉ALL Server Pwedi sa [NETFLIX]\n\n🔥What's New? NEW SET-UP😇\n\n😀YumiZhien😀 Click UPDATE [3.023]👇",
 	"SshPort":"2500",
 	"SshStunnelPort":"447",
 	"SquidPort":"90",
 	"Spoofs":[
 		{
-			"Name":"[Payload] UltimateVPN GTM-NoLoad",
+			"Name":"[INJECT] GTM NoLoad Payload 1",
+			"FrontQuery":"",
+			"BackQuery":"",
+			"UseCustom":false,
+			"CustomProxy":"",
+			"Sni":"",
+			"Payload":"e/KnATRm35vcRsAOIrhirW/G+xWi+K2159WEe8/865gHj3cfnqp8qYVUcAH8Q4Wl/OE3c78L/+fWKjHsrAbJi6l0P8iH+gtZexJOFJ0JOHmI4NAfhGNK6VEknKb91bBxvVwZ/NySg3h5jB1SIijNXQ=="
+		},
+		{
+			"Name":"[INJECT] GTM NoLoad Payload 2",
+			"FrontQuery":"",
+			"BackQuery":"",
+			"UseCustom":false,
+			"CustomProxy":"",
+			"Sni":"",
+			"Payload":"e/KnATRm35vcRsAOIrhirW/G+xWi+K2159WEe8/865gHj3cfnqp8qYVUcAH8Q4Wl/OE3c78L/+fWKjHsrAbJi6l0P8iH+gtZexJOFJ0JOHmI4NAfhGNK6VEknKb91bBxvVwZ/NySg3h5jB1SIijNXQ=="
+		},
+		{
+			"Name":"[INJECT] GTM NoLoad Payload 3",
 			"FrontQuery":"",
 			"BackQuery":"",
 			"UseCustom":false,
