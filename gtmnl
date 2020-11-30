@@ -62,48 +62,33 @@
    ],
    "Servers":[
       {
-         "SubInfo":"[Server] Amsterdam  [prm]",
-         "Server":"6pre-nlbtn.ultimatevpn.xyz",
-         "Location":"NL"
-      },
-      {
-         "SubInfo":"[Server] NEW-YORK  [prm]",
-         "Server":"6pre-nybg.ultimatevpn.xyz",
+         "SubInfo":"[Server] UnitedStates  [prm]",
+         "Server":"www.google.com.1pre1.ultimatevpn.xyz",
          "Location":"US"
       },
       {
          "SubInfo":"[Server] SINGAPORE  [prm]",
-         "Server":"6pre-sgbg.ultimatevpn.xyz",
-         "Location":"SG"
-      },
-      {
-         "SubInfo":"[Server] Torrent Netflix  [vip]",
-         "Server":"7vip-sgbtn.ultimatevpn.xyz",
+         "Server":"www.google.com.1pre2.ultimatevpn.xyz",
          "Location":"SG"
       },
       {
          "SubInfo":"[Server] SINGAPORE -1  [vip]",
-         "Server":"7vip-sgbg1.ultimatevpn.xyz",
+         "Server":"www.google.com.2vip1.ultimatevpn.xyz",
          "Location":"SG"
       },
       {
          "SubInfo":"[Server] SINGAPORE -2  [vip]",
-         "Server":"7vip-sgbg2.ultimatevpn.xyz",
+         "Server":"www.google.com.2vip2.ultimatevpn.xyz",
          "Location":"SG"
       },
       {
-         "SubInfo":"[Server] Torrent Netflix  [prv]",
-         "Server":"8pri-tornet.ultimatevpn.xyz",
-         "Location":"US"
-      },
-      {
          "SubInfo":"[Server] SINGAPORE  [prv]",
-         "Server":"8pri-sgbg.ultimatevpn.xyz",
+         "Server":"www.google.com.3pri1.ultimatevpn.xyz",
          "Location":"SG"
       },
       {
          "SubInfo":"[Server] PHILLIPINES  [prv]",
-         "Server":"8pri-phbg.ultimatevpn.xyz",
+         "Server":"www.google.com.3pri2.ultimatevpn.xyz",
          "Location":"PH"
       }
    ]
