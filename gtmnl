@@ -1,8 +1,8 @@
 {
-   "ConfigVersion":3.035,
-   "ConfigUpdateMsg":"😇 WELCOME  to  UltimateVPN 😇\nUnlimited internet NoLoad Needed\n\n✅Unli [ALL WEBSITE ACCESS] ✅\n✅Unli Youtube Stream/Download\n✅Unli NeTFLiX Stream/Download\n👉ALL Server Pwedi sa [NETFLIX]\n\n🔥What's New? Payload Added😇\n\n😀YumiZhien😀 Click UPDATE [3.035]👇",
+   "ConfigVersion":3.036,
+   "ConfigUpdateMsg":"😇 WELCOME  to  UltimateVPN 😇\nUnlimited internet NoLoad Needed\n\n✅Unli [ALL WEBSITE ACCESS] ✅\n✅Unli Youtube Stream/Download\n✅Unli NeTFLiX Stream/Download\n👉ALL Server Pwedi sa [NETFLIX]\n\n🔥What's New? Payload Added😇\n\n😀YumiZhien😀 Click UPDATE [3.036]👇",
    "SshPort":"2500",
-   "SshStunnelPort":"",
+   "SshStunnelPort":"447",
    "SquidPort":"90",
    "Spoofs":[
       {
@@ -278,48 +278,63 @@
    ],
    "Servers":[
       {
-         "SubInfo":"[Server] Torrent Netflix [prm]",
-         "Server":"1pre1.ultimatevpn.xyz",
+         "SubInfo":"prm [Server] Torrent and Netflix",
+         "Server":"prm-us.ultimatevpn.xyz",
          "Location":"US"
       },
       {
-         "SubInfo":"[Server] Singapore_01  [prm]",
-         "Server":"1pre2.ultimatevpn.xyz",
+         "SubInfo":"prm [Server] D.O      (Canada)",
+         "Server":"prm-ca.ultimatevpn.xyz",
+         "Location":"CA"
+      },
+      {
+         "SubInfo":"prm [Server] D.O    (Bongalore)",
+         "Server":"prm-in.ultimatevpn.xyz",
+         "Location":"IN"
+      },
+      {
+         "SubInfo":"prm [Server] D.O     (Germany)",
+         "Server":"prm-de.ultimatevpn.xyz",
+         "Location":"DE"
+      },
+      {
+         "SubInfo":"prm [Server] Vultr  (Singapore)",
+         "Server":"prm-sg.ultimatevpn.xyz",
          "Location":"SG"
       },
       {
-         "SubInfo":"[Server] Singapore_02  [prm]",
-         "Server":"1pre3.ultimatevpn.xyz",
+         "SubInfo":"vip [Server] D.O   (Singapore) 1",
+         "Server":"vip-sg1.ultimatevpn.xyz",
          "Location":"SG"
       },
       {
-         "SubInfo":"[Server] Singapore_01  [vip]",
-         "Server":"2vip1.ultimatevpn.xyz",
+         "SubInfo":"vip [Server] D.O   (Singapore) 2",
+         "Server":"vip-sg2.ultimatevpn.xyz",
          "Location":"SG"
       },
       {
-         "SubInfo":"[Server] Singapore_02  [vip]",
-         "Server":"2vip2.ultimatevpn.xyz",
+         "SubInfo":"vip [Server] Vultr (Singapore) 3",
+         "Server":"vip-sg3.ultimatevpn.xyz",
          "Location":"SG"
       },
       {
-         "SubInfo":"[Server] Singapore_03  [vip]",
-         "Server":"2vip3.ultimatevpn.xyz",
+         "SubInfo":"vip [Server] Vultr (Singapore) 4",
+         "Server":"vip-sg4.ultimatevpn.xyz",
          "Location":"SG"
       },
       {
-         "SubInfo":"[Server] Singapore_01  [prv]",
-         "Server":"3pri1.ultimatevpn.xyz",
+         "SubInfo":"prv [Server] D.O   (Singapore) 1",
+         "Server":"prv-sg1.ultimatevpn.xyz",
          "Location":"SG"
       },
       {
-         "SubInfo":"[Server] Singapore_02  [prv]",
-         "Server":"3pri2.ultimatevpn.xyz",
+         "SubInfo":"prv [Server] Vultr (Singapore) 2",
+         "Server":"prv-sg2.ultimatevpn.xyz",
          "Location":"SG"
       },
       {
-         "SubInfo":"[Server] PHILLIPINES  [prv]",
-         "Server":"3pri3.ultimatevpn.xyz",
+         "SubInfo":"prv [Server] Cloud (Philippines)",
+         "Server":"prv-ph1.ultimatevpn.xyz",
          "Location":"PH"
       }
    ]
