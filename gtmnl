@@ -1,6 +1,6 @@
 {
-   "ConfigVersion":3.040,
-   "ConfigUpdateMsg":"🔰 BASAHIN MUNA ETO 🔰\n\n👉Kung Gamit mo ang APP na eto sa Globe/TM NoLoad wag mong e click ang (UDATE) dahil mawawala na ang NoLoad Setup pagkatapos mag UPDATE\n\nANG APP na eto ay para nlang sa mga Network Promo's\n👉Sun/Smart/Tnt/Globe/TM\n\n🔥What's New? SSH/SSL Setup✅\n\n😀YumiZhien😀 Click UPDATE [3.040]👇",
+   "ConfigVersion":3.041,
+   "ConfigUpdateMsg":"🔰 BASAHIN MUNA ETO 🔰\n\n👉Kung Gamit mo ang APP na eto sa Globe/TM NoLoad wag mong e click ang (UDATE) dahil mawawala na ang NoLoad Setup pagkatapos mag UPDATE\n\nANG APP na eto ay para nlang sa mga Network Promo's\n👉Sun/Smart/Tnt/Globe/TM\n\n🔥What's New? SSH/SSL Setup✅\n\n😀YumiZhien😀 Click UPDATE [3.041]👇",
    "SshPort":"2500",
    "SshStunnelPort":"8020",
    "SquidPort":"8888",
@@ -240,12 +240,39 @@
 			"Payload":"GXZlwJ2zjuwx4tjAKY8766dEoC/cVa6BUUr5QOwfrWMntm1k11M3yf0WPWQyfCnlj3ReYayco4Up1nhGpOcdtPWkzlohVBFxMjrQtYdfNTqhDEJnBLMa1HrSshowALhlWkb4JbPEWx1NxajwBV6INq5f93cuvUpoeTRQ60/2yuM05Pe5u1mPQ75U7jxA+ENeQn0JudmHbPMZgAmTb6gCk3w9xlsBfg3Bna5J+Vw0QIU="
 		},
 		{
-			"Name":"[Payload] GTM ANY-PROMO (SSL)",
+			"Name":"[Payload] GTM ANY-PROMO (SSL) 1",
 			"FrontQuery":"",
 			"BackQuery":"",
 			"UseCustom":false,
 			"CustomProxy":"",
 			"Sni":"sDhIR3Ydnh7xndTzB/75iw==",
+			"Payload":""
+		},
+		{
+			"Name":"[Payload] GTM ANY-PROMO (SSL) 2",
+			"FrontQuery":"",
+			"BackQuery":"",
+			"UseCustom":false,
+			"CustomProxy":"",
+			"Sni":"www.youtube-nocookie.com",
+			"Payload":""
+		},
+		{
+			"Name":"[Payload] GTM ANY-PROMO (SSL) 3",
+			"FrontQuery":"",
+			"BackQuery":"",
+			"UseCustom":false,
+			"CustomProxy":"",
+			"Sni":"NvzSYhUzTxswP9yoVZm+CD/JA+ydP+pUqUEuXrRLFqY=",
+			"Payload":""
+		},
+		{
+			"Name":"[Payload] GTM ANY-PROMO (SSL) 4",
+			"FrontQuery":"",
+			"BackQuery":"",
+			"UseCustom":false,
+			"CustomProxy":"",
+			"Sni":"clients.google.com",
 			"Payload":""
 		}
    ],
