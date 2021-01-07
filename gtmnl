@@ -1,6 +1,6 @@
 {
-   "ConfigVersion":3.039,
-   "ConfigUpdateMsg":"🔰 BASAHIN MUNA ETO 🔰\n\n👉Kung Gamit mo ang APP na eto sa Globe/TM NoLoad wag mong e click ang (UDATE) dahil mawawala na ang NoLoad Setup pagkatapos mag UPDATE\n\nANG APP na eto ay para nlang sa mga Network Promo's\n👉Sun/Smart/Tnt/Globe/TM\n\n🔥What's New? SSH/SSL Setup✅\n\n😀YumiZhien😀 Click UPDATE [3.039]👇",
+   "ConfigVersion":3.040,
+   "ConfigUpdateMsg":"🔰 BASAHIN MUNA ETO 🔰\n\n👉Kung Gamit mo ang APP na eto sa Globe/TM NoLoad wag mong e click ang (UDATE) dahil mawawala na ang NoLoad Setup pagkatapos mag UPDATE\n\nANG APP na eto ay para nlang sa mga Network Promo's\n👉Sun/Smart/Tnt/Globe/TM\n\n🔥What's New? SSH/SSL Setup✅\n\n😀YumiZhien😀 Click UPDATE [3.040]👇",
    "SshPort":"2500",
    "SshStunnelPort":"8020",
    "SquidPort":"8888",
@@ -245,7 +245,7 @@
 			"BackQuery":"",
 			"UseCustom":false,
 			"CustomProxy":"",
-			"Sni":"cGOyc3ECsa2quCw+T5cGn90k33WENWqOvhLxUISaYKM=",
+			"Sni":"sDhIR3Ydnh7xndTzB/75iw==",
 			"Payload":""
 		}
    ],
