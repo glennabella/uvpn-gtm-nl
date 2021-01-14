@@ -1,9 +1,9 @@
 {
-   "ConfigVersion":3.047,
-   "ConfigUpdateMsg":"🔰 BASAHIN MUNA ETO 🔰\n\n👉Kung Gamit mo ang APP na eto sa Globe/TM NoLoad wag mong e click ang (UDATE) dahil mawawala na ang NoLoad Setup pagkatapos mag UPDATE\n\nANG APP na eto ay para nlang sa mga Network Promo's\n👉Sun/Smart/Tnt/Globe/TM\n\n🔥What's New? SSH/SSL Setup✅\n\n😀YumiZhien😀 Click UPDATE [3.047]👇",
+   "ConfigVersion":3.048,
+   "ConfigUpdateMsg":"🔰 BASAHIN MUNA ETO 🔰\n\n👉Kung Gamit mo ang APP na eto sa Globe/TM NoLoad wag mong e click ang (UDATE) dahil mawawala na ang NoLoad Setup pagkatapos mag UPDATE\n\nANG APP na eto ay para nlang sa mga Network Promo's\n👉Sun/Smart/Tnt/Globe/TM\n\n🔥What's New? SSH/SSL Setup✅\n\n😀YumiZhien😀 Click UPDATE [3.048]👇",
    "SshPort":"2500",
    "SshStunnelPort":"8020",
-   "SquidPort":"3128",
+   "SquidPort":"8888",
    "Spoofs":[
       {
 			"Name":"[Payload] SUN  TU & CTC ( SSH )",
@@ -204,13 +204,13 @@
 			"Payload":"icxcaM8SvzJNpQHrfomk73TA8IiUAScvfwJnUob76a6pYvCqgX5hHdx+VxMe0ciIjTi4bMGI2CeK/RU/GP7iPxXlmILUmot9DxSfGdN9GmtOmvtE9QChcISNLko0+YCL"
 		},
 		{
-			"Name":"[Payload] GTM AnyPromo 1",
+			"Name":"[Payload] GTM AnyPromo 01",
 			"FrontQuery":"",
 			"BackQuery":"",
 			"UseCustom":false,
 			"CustomProxy":"",
 			"Sni":"",
-			"Payload":"GXZlwJ2zjuwx4tjAKY876xT4Fd/4XhSrPwfuBFz4gMcrz3CJNrbSKQTelkKhvFfun9DVQf9GDV+RsyfwsrVMt0hBcu+MWGcg+NnHANGuuve/r1lc86wC4dhA5U7AegqaaSmonLyBqXqbrdxxa/VfxQ=="
+			"Payload":"CONNECT [host_port] [protocol][crlf]Host: clients3.google.com[crlf]Connection: Keep-Alive[crlf][crlf]"
 		},
 		{
 			"Name":"[Payload] GTM AnyPromo 2 (SSH)",
@@ -279,12 +279,12 @@
    "Servers":[
       {
          "SubInfo":"prm [Server] Torrent and Netflix",
-         "Server":"p16-va.tiktokcdn.com.prm-us.ultimatevpn.xyz",
+         "Server":"prm-us.ultimatevpn.xyz",
          "Location":"US"
       },
       {
          "SubInfo":"prm [Server] D.O      (Canada)",
-         "Server":"p16-va.tiktokcdn.com.prm-ca.ultimatevpn.xyz",
+         "Server":"prm-ca.ultimatevpn.xyz",
          "Location":"CA"
       },
       {
