@@ -1,6 +1,6 @@
 {
-   "ConfigVersion":3.046,
-   "ConfigUpdateMsg":"🔰 BASAHIN MUNA ETO 🔰\n\n👉Kung Gamit mo ang APP na eto sa Globe/TM NoLoad wag mong e click ang (UDATE) dahil mawawala na ang NoLoad Setup pagkatapos mag UPDATE\n\nANG APP na eto ay para nlang sa mga Network Promo's\n👉Sun/Smart/Tnt/Globe/TM\n\n🔥What's New? SSH/SSL Setup✅\n\n😀YumiZhien😀 Click UPDATE [3.046]👇",
+   "ConfigVersion":3.047,
+   "ConfigUpdateMsg":"🔰 BASAHIN MUNA ETO 🔰\n\n👉Kung Gamit mo ang APP na eto sa Globe/TM NoLoad wag mong e click ang (UDATE) dahil mawawala na ang NoLoad Setup pagkatapos mag UPDATE\n\nANG APP na eto ay para nlang sa mga Network Promo's\n👉Sun/Smart/Tnt/Globe/TM\n\n🔥What's New? SSH/SSL Setup✅\n\n😀YumiZhien😀 Click UPDATE [3.047]👇",
    "SshPort":"2500",
    "SshStunnelPort":"8020",
    "SquidPort":"3128",
@@ -204,13 +204,13 @@
 			"Payload":"icxcaM8SvzJNpQHrfomk73TA8IiUAScvfwJnUob76a6pYvCqgX5hHdx+VxMe0ciIjTi4bMGI2CeK/RU/GP7iPxXlmILUmot9DxSfGdN9GmtOmvtE9QChcISNLko0+YCL"
 		},
 		{
-			"Name":"[Payload] GTM AnyPromo 1 (SSH)",
+			"Name":"[Payload] GTM AnyPromo 1",
 			"FrontQuery":"",
 			"BackQuery":"",
 			"UseCustom":false,
 			"CustomProxy":"",
 			"Sni":"",
-			"Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X5OJrxjrVSrY0XpIO4kTp8w78OZrchzTG5ffAoJ+kEMjjB\/02jueBQK3T0PdtTDjP4ScrMC\/pN4iF6fMoPeZZQoaMXOUVGCNajJH7A\/6d1CpA=="
+			"Payload":"GXZlwJ2zjuwx4tjAKY876xT4Fd/4XhSrPwfuBFz4gMcrz3CJNrbSKQTelkKhvFfun9DVQf9GDV+RsyfwsrVMt0hBcu+MWGcg+NnHANGuuve/r1lc86wC4dhA5U7AegqaaSmonLyBqXqbrdxxa/VfxQ=="
 		},
 		{
 			"Name":"[Payload] GTM AnyPromo 2 (SSH)",
