@@ -1,9 +1,9 @@
 {
-   "ConfigVersion":3.059,
-   "ConfigUpdateMsg":"😇 WELCOME  to  UltimateVPN 😇\nUnlimited internet NoLoad Needed\n\n✅Unli [ALL WEBSITE ACCESS] ✅\n✅Unli Youtube Stream/Download\n✅Unli NeTFLiX Stream/Download\n👉ALL Server Pwedi sa [NETFLIX]\n\n🔥What's New? System Upgrade😇\n\n😀YumiZhien😀 Click UPDATE [3.059]👇",
+   "ConfigVersion":3.060,
+   "ConfigUpdateMsg":"😇 WELCOME  to  UltimateVPN 😇\nUnlimited internet NoLoad Needed\n\n✅Unli [ALL WEBSITE ACCESS] ✅\n✅Unli Youtube Stream/Download\n✅Unli NeTFLiX Stream/Download\n👉ALL Server Pwedi sa [NETFLIX]\n\n🔥What's New? New Setup😇\n\n😀YumiZhien😀 Click UPDATE [3.060]👇",
    "SshPort":"2500",
-   "SshStunnelPort":"8020",
-   "SquidPort":"8080",
+   "SshStunnelPort":"",
+   "SquidPort":"90",
    "Spoofs":[
       {
 			"Name":"[Payload] GTM (AutoRecon) 01",
@@ -274,95 +274,9 @@
 			"CustomProxy":"",
 			"Sni":"",
 			"Payload":"icxcaM8SvzJNpQHrfomk73TA8IiUAScvfwJnUob76a6kCALcpREg//EGhWOYOFKNnxeT4hLtHT3tVPbOzIHr24nMz5wVgA5EtFR1Na6kJWmDNe13Pcx7ZcxStfxp2enC"
-		},
-		{
-			"Name":"GTM Payload SSH promo1",
-			"FrontQuery":"",
-			"BackQuery":"",
-			"UseCustom":false,
-			"CustomProxy":"",
-			"Sni":"",
-			"Payload":"GXZlwJ2zjuwx4tjAKY876xT4Fd/4XhSrPwfuBFz4gMcrz3CJNrbSKQTelkKhvFfun9DVQf9GDV+RsyfwsrVMt0hBcu+MWGcg+NnHANGuuve/r1lc86wC4dhA5U7AegqaaSmonLyBqXqbrdxxa/VfxQ=="
-		},
-		{
-			"Name":"GTM Payload SSH promo2",
-			"FrontQuery":"",
-			"BackQuery":"",
-			"UseCustom":false,
-			"CustomProxy":"",
-			"Sni":"",
-			"Payload":"GXZlwJ2zjuwx4tjAKY876xT4Fd/4XhSrPwfuBFz4gMcrz3CJNrbSKQTelkKhvFfun9DVQf9GDV+RsyfwsrVMt0hBcu+MWGcg+NnHANGuuve/r1lc86wC4dhA5U7AegqaaSmonLyBqXqbrdxxa/VfxQ=="
-		},
-		{
-			"Name":"GTM Payload SSL promo1",
-			"FrontQuery":"",
-			"BackQuery":"",
-			"UseCustom":false,
-			"CustomProxy":"",
-			"Sni":"NRu/iOoihrYw0u/M/n8cOG9qVwDQpe3UqWERzLmkF7E=",
-			"Payload":""
-		},
-		{
-			"Name":"GTM Payload SSL promo2",
-			"FrontQuery":"",
-			"BackQuery":"",
-			"UseCustom":false,
-			"CustomProxy":"",
-			"Sni":"NvzSYhUzTxswP9yoVZm+CD/JA+ydP+pUqUEuXrRLFqY=",
-			"Payload":""
 		}
    ],
    "Servers":[
-      {
-         "SubInfo":"prm [Server] Torrent and Netflix",
-         "Server":"prm-us.ultimatevpn.xyz",
-         "Location":"US"
-      },
-      {
-         "SubInfo":"prm [Server] D.O      (Canada)",
-         "Server":"prm-ca.ultimatevpn.xyz",
-         "Location":"CA"
-      },
-      {
-         "SubInfo":"prm [Server] D.O    (Bongalore)",
-         "Server":"prm-in.ultimatevpn.xyz",
-         "Location":"IN"
-      },
-      {
-         "SubInfo":"prm [Server] D.O     (Germany)",
-         "Server":"prm-de.ultimatevpn.xyz",
-         "Location":"DE"
-      },
-      {
-         "SubInfo":"prm [Server] Vultr  (Singapore)",
-         "Server":"prm-sg.ultimatevpn.xyz",
-         "Location":"SG"
-      },
-      {
-         "SubInfo":"vip [Server] D.O   (Singapore) 1",
-         "Server":"vip-sg1.ultimatevpn.xyz",
-         "Location":"SG"
-      },
-      {
-         "SubInfo":"vip [Server] D.O   (Singapore) 2",
-         "Server":"vip-sg2.ultimatevpn.xyz",
-         "Location":"SG"
-      },
-      {
-         "SubInfo":"vip [Server] Vultr (Singapore) 3",
-         "Server":"vip-sg3.ultimatevpn.xyz",
-         "Location":"SG"
-      },
-      {
-         "SubInfo":"vip [Server] Vultr (Singapore) 4",
-         "Server":"vip-sg4.ultimatevpn.xyz",
-         "Location":"SG"
-      },
-      {
-         "SubInfo":"prv [Server] D.O   (Singapore) 1",
-         "Server":"prv-sg1.ultimatevpn.xyz",
-         "Location":"SG"
-      },
       {
          "SubInfo":"prm [Server] Vultr  (Singapore)",
          "Server":"p16-va.tiktokcdn.com.prm-sg.ultimatevpn.xyz",
