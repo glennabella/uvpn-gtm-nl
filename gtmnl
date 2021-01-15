@@ -1,9 +1,9 @@
 {
-   "ConfigVersion":3.058,
-   "ConfigUpdateMsg":"😇 WELCOME  to  UltimateVPN 😇\nUnlimited internet NoLoad Needed\n\n✅Unli [ALL WEBSITE ACCESS] ✅\n✅Unli Youtube Stream/Download\n✅Unli NeTFLiX Stream/Download\n👉ALL Server Pwedi sa [NETFLIX]\n\n🔥What's New? System Upgrade😇\n\n😀YumiZhien😀 Click UPDATE [3.058]👇",
+   "ConfigVersion":3.059,
+   "ConfigUpdateMsg":"😇 WELCOME  to  UltimateVPN 😇\nUnlimited internet NoLoad Needed\n\n✅Unli [ALL WEBSITE ACCESS] ✅\n✅Unli Youtube Stream/Download\n✅Unli NeTFLiX Stream/Download\n👉ALL Server Pwedi sa [NETFLIX]\n\n🔥What's New? System Upgrade😇\n\n😀YumiZhien😀 Click UPDATE [3.059]👇",
    "SshPort":"2500",
    "SshStunnelPort":"8020",
-   "SquidPort":"90",
+   "SquidPort":"8080",
    "Spoofs":[
       {
 			"Name":"[Payload] GTM (AutoRecon) 01",
