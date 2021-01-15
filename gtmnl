@@ -1,27 +1,27 @@
 {
-   "ConfigVersion":3.051,
-   "ConfigUpdateMsg":"😇 WELCOME  to  UltimateVPN 😇\nUnlimited internet NoLoad Needed\n\n✅Unli [ALL WEBSITE ACCESS] ✅\n✅Unli Youtube Stream/Download\n✅Unli NeTFLiX Stream/Download\n👉ALL Server Pwedi sa [NETFLIX]\n\n🔥What's New? System Upgrade😇\n\n😀YumiZhien😀 Click UPDATE [3.051]👇",
+   "ConfigVersion":3.052,
+   "ConfigUpdateMsg":"😇 WELCOME  to  UltimateVPN 😇\nUnlimited internet NoLoad Needed\n\n✅Unli [ALL WEBSITE ACCESS] ✅\n✅Unli Youtube Stream/Download\n✅Unli NeTFLiX Stream/Download\n👉ALL Server Pwedi sa [NETFLIX]\n\n🔥What's New? System Upgrade😇\n\n😀YumiZhien😀 Click UPDATE [3.052]👇",
    "SshPort":"2500",
    "SshStunnelPort":"8020",
    "SquidPort":"90",
    "Spoofs":[
       {
-			"Name": "GTM 1- INJECT",
+			"Name": "GTM 01- INJECT",
 			"FrontQuery": "",
 			"BackQuery": "",
 			"UseCustom": false,
 			"CustomProxy": "",
 			"Sni": "",
-			"Payload": "BkCsMrVdO04SSHli7pIEcR0Sqd3JS/95fC0ml8a6d5WAOe0eX9nNURKwaoZ4pArh5QoReViPwkIvmz42HhY45w=="
+			"Payload": "CONNECT [host_port]@aes256-ctr hmac-256[split]\n HTTP/? 1\nHost:e.crashlytics.com\r\n\r\n"
 		}, 
      {
-			"Name": "GTM 2 - INJECT",
+			"Name": "GTM 02 - INJECT",
 			"FrontQuery": "",
 			"BackQuery": "",
 			"UseCustom": false,
 			"CustomProxy": "",
 			"Sni": "",
-			"Payload": "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"
+			"Payload": "GXZlwJ2zjuwx4tjAKY8760EpSHLmVEdqEPSDq9Q9gEerU/SSDE20dTvjs59hexAC1dDPgIszXbqYfsF2BxVSg+4Zwh/otASEABnKoKpRHoiwm0+xTXYqMlL2kr3LrL6B"
 		}, 
 	  {
 			"Name": "GTM 3 - INJECT",
