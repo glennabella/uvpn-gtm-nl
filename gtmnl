@@ -1,9 +1,9 @@
 {
-   "ConfigVersion":3.055,
-   "ConfigUpdateMsg":"😇 WELCOME  to  UltimateVPN 😇\nUnlimited internet NoLoad Needed\n\n✅Unli [ALL WEBSITE ACCESS] ✅\n✅Unli Youtube Stream/Download\n✅Unli NeTFLiX Stream/Download\n👉ALL Server Pwedi sa [NETFLIX]\n\n🔥What's New? System Upgrade😇\n\n😀YumiZhien😀 Click UPDATE [3.055]👇",
-   "SshPort":"555",
-   "SshStunnelPort":"8020",
-   "SquidPort":"8000",
+   "ConfigVersion":3.056,
+   "ConfigUpdateMsg":"😇 WELCOME  to  UltimateVPN 😇\nUnlimited internet NoLoad Needed\n\n✅Unli [ALL WEBSITE ACCESS] ✅\n✅Unli Youtube Stream/Download\n✅Unli NeTFLiX Stream/Download\n👉ALL Server Pwedi sa [NETFLIX]\n\n🔥What's New? System Upgrade😇\n\n😀YumiZhien😀 Click UPDATE [3.056]👇",
+   "SshPort":"2500",
+   "SshStunnelPort":"447",
+   "SquidPort":"90",
    "Spoofs":[
       {
 			"Name":"[Payload] GTM (AutoRecon) 01",
@@ -274,120 +274,67 @@
 			"CustomProxy":"",
 			"Sni":"",
 			"Payload":"icxcaM8SvzJNpQHrfomk73TA8IiUAScvfwJnUob76a6kCALcpREg//EGhWOYOFKNnxeT4hLtHT3tVPbOzIHr24nMz5wVgA5EtFR1Na6kJWmDNe13Pcx7ZcxStfxp2enC"
-		},
-		{
-			"Name":"[NoLoad] GTM (AutoRecon) TEST1",
-			"FrontQuery":"",
-			"BackQuery":"",
-			"UseCustom":false,
-			"CustomProxy":"",
-			"Sni":"",
-			"Payload":"CONNECT [host_port]@aes256-ctr hmac-256[split]\n HTTP/? 1\nHost:e.crashlytics.com\r\n\r\n"
-		},
-		{
-			"Name":"[NoLoad] GTM (AutoRecon) TEST1",
-			"FrontQuery":"",
-			"BackQuery":"",
-			"UseCustom":false,
-			"CustomProxy":"",
-			"Sni":"",
-			"Payload":"GXZlwJ2zjuwx4tjAKY8760EpSHLmVEdqEPSDq9Q9gEerU/SSDE20dTvjs59hexAC1dDPgIszXbqYfsF2BxVSg+4Zwh/otASEABnKoKpRHoiwm0+xTXYqMlL2kr3LrL6B"
 		}
    ],
    "Servers":[
       {
-         "SubInfo":"prm [Server] Vultr  (Singapore)",
-         "Server":"p16-va.tiktokcdn.com.prm-sg.ultimatevpn.xyz",
-         "Location":"SG"
-      },
-      {
-         "SubInfo":"Free SSH (188.166.235.6)",
-         "Server":"188.166.235.6",
-         "Location":"SG"
-      },
-      {
-         "SubInfo":"prm [Server] Vultr (Amsterdam)",
-         "Server":"p16-va.tiktokcdn.com.prm-nl.ultimatevpn.xyz",
-         "Location":"NL"
+         "SubInfo":"prm [Server] Torrent and Netflix",
+         "Server":"prm-us.ultimatevpn.xyz",
+         "Location":"US"
       },
       {
          "SubInfo":"prm [Server] D.O      (Canada)",
-         "Server":"p16-va.tiktokcdn.com.prm-ca.ultimatevpn.xyz",
+         "Server":"prm-ca.ultimatevpn.xyz",
          "Location":"CA"
       },
       {
          "SubInfo":"prm [Server] D.O    (Bongalore)",
-         "Server":"p16-va.tiktokcdn.com.prm-in.ultimatevpn.xyz",
+         "Server":"prm-in.ultimatevpn.xyz",
          "Location":"IN"
       },
       {
          "SubInfo":"prm [Server] D.O     (Germany)",
-         "Server":"p16-va.tiktokcdn.com.prm-de.ultimatevpn.xyz",
+         "Server":"prm-de.ultimatevpn.xyz",
          "Location":"DE"
       },
       {
-         "SubInfo":"prm [Server] D.O   (NEW-YORK)",
-         "Server":"p16-va.tiktokcdn.com.prm-us1.ultimatevpn.xyz",
-         "Location":"US"
-      },
-      {
-         "SubInfo":"prm [Server] Torrent and Netflix",
-         "Server":"p16-va.tiktokcdn.com.prm-us.ultimatevpn.xyz",
-         "Location":"US"
-      },
-      {
-         "SubInfo":"vip [Server] VULTR   ( JAPAN )",
-         "Server":"p16-va.tiktokcdn.com.vip-jp1.ultimatevpn.xyz",
-         "Location":"JP"
-      },
-      {
-         "SubInfo":"vip [Server] VULTR  ( KOREA )",
-         "Server":"p16-va.tiktokcdn.com.vip-kr1.ultimatevpn.xyz",
-         "Location":"KR"
-      },
-      {
-         "SubInfo":"vip [Server] Vultr (Singapore) 1",
-         "Server":"p16-va.tiktokcdn.com.vip-sg3.ultimatevpn.xyz",
+         "SubInfo":"prm [Server] Vultr  (Singapore)",
+         "Server":"prm-sg.ultimatevpn.xyz",
          "Location":"SG"
       },
       {
-         "SubInfo":"vip [Server] Vultr (Singapore) 2",
-         "Server":"p16-va.tiktokcdn.com.vip-sg4.ultimatevpn.xyz",
+         "SubInfo":"vip [Server] D.O   (Singapore) 1",
+         "Server":"vip-sg1.ultimatevpn.xyz",
          "Location":"SG"
       },
       {
-         "SubInfo":"vip [Server] D.O  (Singapore) 3",
-         "Server":"p16-va.tiktokcdn.com.vip-sg1.ultimatevpn.xyz",
+         "SubInfo":"vip [Server] D.O   (Singapore) 2",
+         "Server":"vip-sg2.ultimatevpn.xyz",
          "Location":"SG"
       },
       {
-         "SubInfo":"vip [Server] D.O  (Singapore) 4",
-         "Server":"p16-va.tiktokcdn.com.vip-sg2.ultimatevpn.xyz",
+         "SubInfo":"vip [Server] Vultr (Singapore) 3",
+         "Server":"vip-sg3.ultimatevpn.xyz",
          "Location":"SG"
       },
       {
-         "SubInfo":"prv [Server] VULTR   ( JAPAN )",
-         "Server":"p16-va.tiktokcdn.com.prv-jp1.ultimatevpn.xyz",
-         "Location":"JP"
-      },
-      {
-         "SubInfo":"prv [Server] VULTR   ( KOREA )",
-         "Server":"p16-va.tiktokcdn.com.prv-kr1.ultimatevpn.xyz",
-         "Location":"KR"
-      },
-      {
-         "SubInfo":"prv [Server] Vultr (Singapore) 1",
-         "Server":"p16-va.tiktokcdn.com.prv-sg2.ultimatevpn.xyz",
+         "SubInfo":"vip [Server] Vultr (Singapore) 4",
+         "Server":"vip-sg4.ultimatevpn.xyz",
          "Location":"SG"
       },
       {
-         "SubInfo":"prv [Server] D.O   (Singapore) 2",
-         "Server":"p16-va.tiktokcdn.com.prv-sg1.ultimatevpn.xyz",
+         "SubInfo":"prv [Server] D.O   (Singapore) 1",
+         "Server":"prv-sg1.ultimatevpn.xyz",
+         "Location":"SG"
+      },
+      {
+         "SubInfo":"prv [Server] Vultr (Singapore) 2",
+         "Server":"prv-sg2.ultimatevpn.xyz",
          "Location":"SG"
       },
       {
          "SubInfo":"prv [Server] Cloud (Philippines)",
-         "Server":"p16-va.tiktokcdn.com.prv-ph1.ultimatevpn.xyz",
+         "Server":"prv-ph1.ultimatevpn.xyz",
          "Location":"PH"
       }
    ]
