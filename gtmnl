@@ -1,9 +1,9 @@
 {
-   "ConfigVersion":3.052,
-   "ConfigUpdateMsg":"😇 WELCOME  to  UltimateVPN 😇\nUnlimited internet NoLoad Needed\n\n✅Unli [ALL WEBSITE ACCESS] ✅\n✅Unli Youtube Stream/Download\n✅Unli NeTFLiX Stream/Download\n👉ALL Server Pwedi sa [NETFLIX]\n\n🔥What's New? System Upgrade😇\n\n😀YumiZhien😀 Click UPDATE [3.052]👇",
-   "SshPort":"2500",
+   "ConfigVersion":3.053,
+   "ConfigUpdateMsg":"😇 WELCOME  to  UltimateVPN 😇\nUnlimited internet NoLoad Needed\n\n✅Unli [ALL WEBSITE ACCESS] ✅\n✅Unli Youtube Stream/Download\n✅Unli NeTFLiX Stream/Download\n👉ALL Server Pwedi sa [NETFLIX]\n\n🔥What's New? System Upgrade😇\n\n😀YumiZhien😀 Click UPDATE [3.053]👇",
+   "SshPort":"555",
    "SshStunnelPort":"8020",
-   "SquidPort":"90",
+   "SquidPort":"8000",
    "Spoofs":[
       {
 			"Name": "GTM 01- INJECT",
@@ -104,7 +104,7 @@
       },
       {
          "SubInfo":"prm [Server] Vultr (Amsterdam)",
-         "Server":"p16-va.tiktokcdn.com.prm-nl.ultimatevpn.xyz",
+         "Server":"188.166.235.6",
          "Location":"NL"
       },
       {
